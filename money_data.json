@@ -1,0 +1,12 @@
+{
+  "pocket_money": 3500,
+  "transactions": [],
+  "savings_goal": 800,
+  "budgets": {
+    "food": 400,
+    "outing": 800,
+    "shopping": 700,
+    "recharge": 450,
+    "other": 300
+  }
+}
